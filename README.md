@@ -1,7 +1,5 @@
 # Advanced Data Structures with Python
 
-![alt text](http://www.pngall.com/wp-content/uploads/2016/05/Python-Logo-PNG-Image.png)
-<br>
 This repository contains Data structures, Algorithms and their common usecases implemented by me in python. This repository is really helpful for those, who prefer to do competitive programming in python. 
 
 ## Contents:
@@ -76,3 +74,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+<center>
+![alt text](http://www.pngall.com/wp-content/uploads/2016/05/Python-Logo-PNG-Image.png)
+</center>
