@@ -74,7 +74,8 @@ Books, Vedios and Lecture Notes available in are available here - [Learning Reso
 This repository is open to contribution.
 Contributers are mentioned here:  
 
-[Aniruddh Nathani](https://github.com/AniruddhNathani)-------------------------[Linkedin Profile](https://www.linkedin.com/in/aniruddh-n-b7626699/)
+1) [Bhavin Jawade](https://www.linkedin.com/in/bhavinjawade/)
+2) [Aniruddh Nathani](https://www.linkedin.com/in/aniruddh-n-b7626699/)
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
