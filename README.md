@@ -6,16 +6,16 @@ This repository contains Data structures, Algorithms and their common usecases i
 
 ### Algorithms-
 
-* 1) Dijkstra's Shortest Path Algorithm (Java + Python)
-* 2) Kahn's Algorithm for Topological Sort
-* 3) Depth First Search
-* 4) Longest Common Subsequence (Java)
-* 5) Longest Common Substring (Java)
+* Dijkstra's Shortest Path Algorithm (Java + Python)
+* Kahn's Algorithm for Topological Sort
+* Depth First Search
+* Longest Common Subsequence (Java)
+* Longest Common Substring (Java)
 
 ### Data Structures:
 
-* 1) Segement Tree (For sum) (Java + Python)
-* 2) Union Find Data Structures (Disjoint Set Data Structure)
+* Segement Tree (For sum) (Java + Python)
+* Union Find Data Structures (Disjoint Set Data Structure)
 
 ### Learning Python ( the pythonic way)
 
