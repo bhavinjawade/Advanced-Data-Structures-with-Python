@@ -12,7 +12,7 @@ This repository contains Data structures, Algorithms and their common usecases i
 * Longest Common Subsequence (Java)
 * Longest Common Substring (Java)
 
-### Data Structures:
+### Data Structures-
 
 * Segement Tree (For sum) (Java + Python)
 * Union Find Data Structures (Disjoint Set Data Structure)
