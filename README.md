@@ -75,6 +75,4 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-<center>
-![alt text](http://www.pngall.com/wp-content/uploads/2016/05/Python-Logo-PNG-Image.png)
-</center>
+<div style="text-align:center"><img src ="http://www.pngall.com/wp-content/uploads/2016/05/Python-Logo-PNG-Image.png" /></div>
