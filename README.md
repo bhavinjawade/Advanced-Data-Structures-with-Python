@@ -53,7 +53,7 @@ filter(function_object, iterable)
 ```
 ## Resources to Learn Python
 
-Books, Vedios and Lecture Notes available in are available here - [a link](https://github.com/bhavinjawade/Advanced-Data-Structures-with-Python/tree/master/Learning%20Resources)
+Books, Vedios and Lecture Notes available in are available here - [Learning Resources](https://github.com/bhavinjawade/Advanced-Data-Structures-with-Python/tree/master/Learning%20Resources)
 
 * Real Python
 * Python Jumpstart by Building 10 Apps
