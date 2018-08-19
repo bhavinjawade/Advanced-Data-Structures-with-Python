@@ -55,6 +55,8 @@ filter(function_object, iterable)
 
 Books, Vedios and Lecture Notes available in are available here - [Learning Resources](https://github.com/bhavinjawade/Advanced-Data-Structures-with-Python/tree/master/Learning%20Resources)
 
+### Some Other Resources 
+
 * Real Python
 * Python Jumpstart by Building 10 Apps
 * Learn Python the Hard Way
