@@ -9,7 +9,7 @@ Another advantage of Trie is, we can easily print all words in alphabetical orde
 We can efficiently do prefix search (or auto-complete) with Trie.
 <br>
 
-<div style="text-align:center"><img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Patricia_trie.svg/350px-Patricia_trie.svg.png
+<div style="text-align:center"><img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Patricia_trie.svg/350px-Patricia_trie.svg
 "/></div>
 
 ## Advanced Learning Resources
