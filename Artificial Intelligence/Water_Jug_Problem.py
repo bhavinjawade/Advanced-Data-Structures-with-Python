@@ -25,6 +25,11 @@ def pour(jug1, jug2):
     
     else:
         pour(jug1-(capacityB-jug2), (capacityB-jug2)+jug2)
- 
+
+print('''
+    capacityA = 5
+    capacityB = 7
+    Measure = 4  
+    ''')
 print("Jug 1 \t Jug 2")
 pour(0, 0)
