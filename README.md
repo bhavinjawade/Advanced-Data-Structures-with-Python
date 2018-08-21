@@ -52,12 +52,13 @@ filter <br>
 ```python
 filter(function_object, iterable)
 ```
-## Tricks
+## Python Tricks
 
 Input Space Seperated Integers as List<br>
 ```python
 numbers = list(map(int, input().split()))
 ```
+
 
 ## Resources to Learn Python
 
