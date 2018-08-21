@@ -11,6 +11,7 @@ This repository contains Data structures, Algorithms and their common usecases i
 * Depth First Search
 * Longest Common Subsequence (Java)
 * Longest Common Substring (Java)
+* Floyd Warshall Algorithm
 
 ### Data Structures-
 
