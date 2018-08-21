@@ -14,7 +14,7 @@ We can efficiently do prefix search (or auto-complete) with Trie.
 
 <br>
 
-![] (https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Patricia_trie.svg/350px-Patricia_trie.svg.png)
+[![Tries](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Patricia_trie.svg/350px-Patricia_trie.svg.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Patricia_trie.svg/350px-Patricia_trie.svg.png)
 
 <br>
 
