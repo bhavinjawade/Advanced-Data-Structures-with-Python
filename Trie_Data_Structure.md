@@ -14,11 +14,11 @@ We can efficiently do prefix search (or auto-complete) with Trie.
 
 <br>
 
-![alt Image] (https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Patricia_trie.svg/350px-Patricia_trie.svg.png)
+![alt text] (https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Patricia_trie.svg/350px-Patricia_trie.svg.png "Trie Image")
 
 <br>
 
 ## Advanced Learning Resources
-1)https://www.cs.cmu.edu/~fp/courses/15122-f10/lectures/18-tries.pdf
-2)http://ellard.org/dan/www/libsq/cb_1998/c06.pdf
+1) https://www.cs.cmu.edu/~fp/courses/15122-f10/lectures/18-tries.pdf
+2) http://ellard.org/dan/www/libsq/cb_1998/c06.pdf
 3) [Harvard CS50: Tries](https://www.youtube.com/watch?v=TRg9DQFu0kU)
