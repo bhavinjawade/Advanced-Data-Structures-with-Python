@@ -40,22 +40,22 @@ capacityB = 7
 <br>
 Measure = 4
 <br>
-| Jug 1  |  Jug 2 |
-| -----  |  ----- |
-|   5    |    0   |
-|   0    |    0   |
-|   0    |    5   |
-|   5    |    5   |
-|   3    |    7   |
-|   0    |    3   |
-|   5    |    3   |
-|   1    |    7   |
-|   0    |    1   |
-|   5    |    1   |
-|   5    |    6   |
-|   0    |    6   |
-|   4    |    7   |
-|   0    |    4   |
+| Jug 1 | Jug 2 |
+| ----- | ----- |
+| 5 | 0 |
+| 0 | 0 |
+| 0 | 5 |
+| 5 | 5 |
+| 3 | 7 |
+| 0 | 3 |
+| 5 | 3 |
+| 1 | 7 |
+| 0 | 1 |
+| 5 | 1 |
+| 5 | 6 |
+| 0 | 6 |
+| 4 | 7 |
+| 0 | 4 |
 
 ## Additional Resources for Water jug Problem:
 * [An Arithmetic Approach to the General Two Water Jugs Problem - Yiu-Kwong Man](http://www.iaeng.org/publication/WCE2013/WCE2013_pp145-147.pdf)
