@@ -14,7 +14,7 @@ This repository contains Data structures, Algorithms and their common usecases i
 * Longest Common Substring (Java) [Code](LongestCommonSubstring.java)
 
 ### Data Structures-
-* Trie Data Structure [Code](Trie_Data_Structure.py) [Learn](Tries_Data_Structure.md) 
+* Trie Data Structure [Code](Trie_Data_Structure.py) [Learn](Trie_Data_Structure.md) 
 * Segement Tree (For sum) (Java + Python)   [Code](segment_Tree.py)
 * Union Find Data Structures (Disjoint Set Data Structure) [Code](UnionFindDS.py)
 * Binary Search Tree [Code](BST.py)
