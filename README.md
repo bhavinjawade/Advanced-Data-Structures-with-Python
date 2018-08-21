@@ -22,17 +22,17 @@ This repository contains Data structures, Algorithms and their common usecases i
 ## Learning Python ( the pythonic way)
 
 Lambdas <br>
-```
+```python
 lambda arguments : expression
 ```
 
 List Comprehensions <br>
-```
+```python
 number_list = [ x for x in range(20) if x % 2 == 0]
 ```
 
 Class <br>
-```
+```python
 class Person:
   def __init__(self, name, age):
     self.name = name
@@ -44,14 +44,21 @@ print(p1.name)
 print(p1.age)
 ```
 Map <br>
-```
+```python
 map(function_object, iterable1, iterable2,...)
 ```
 
 filter <br>
-```
+```python
 filter(function_object, iterable)
 ```
+## Tricks
+
+Input Space Seperated Integers as List<br>
+```python
+numbers = list(map(int, input().split()))
+```
+
 ## Resources to Learn Python
 
 Books, Vedios and Lecture Notes available in are available here - [Learning Resources](https://github.com/bhavinjawade/Advanced-Data-Structures-with-Python/tree/master/Learning%20Resources)
