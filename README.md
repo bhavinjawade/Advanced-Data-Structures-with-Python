@@ -19,6 +19,8 @@ This repository contains Data structures, Algorithms and their common usecases i
 * Union Find Data Structures (Disjoint Set Data Structure) [Code](UnionFindDS.py)
 * Binary Search Tree [Code](BST.py)
 
+> Click on "Code" to see code of that data structure or algorithm, and click on "Learn" to read markdown.
+
 ## Learning Python ( the pythonic way)
 
 Lambdas <br>
