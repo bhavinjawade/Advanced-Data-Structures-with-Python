@@ -21,6 +21,8 @@ topological sort gives an order in which to perform the jobs.
 
 <br>
 
+![alt text](https://www.geeksforgeeks.org/wp-content/uploads/graph.png "Graph")
+
 The usual algorithms for topological sorting have running time linear in the number of nodes
 plus the number of edges, asymptotically O(|V|+|E|) 
 
