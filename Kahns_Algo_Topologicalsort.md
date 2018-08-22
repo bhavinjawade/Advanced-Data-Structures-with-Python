@@ -55,3 +55,6 @@ else
 If the graph is a DAG, a solution will be contained in the list topsort (the solution is not
 necessarily unique). Otherwise, the graph must have at least one cycle and therefore a
 topological sorting is impossible.
+<br>
+<br>
+**Markdown by: [Sakina Freegnajwala](https://www.linkedin.com/in/sakina-freeganjwala-033498152/)**
