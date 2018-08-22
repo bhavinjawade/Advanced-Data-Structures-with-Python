@@ -6,6 +6,8 @@ This repository contains Data structures, Algorithms and their common usecases i
 
 ### Algorithms-
 
+> Click on "Code" to see code of that data structure or algorithm, and click on "Learn" to read markdown.
+
 * Dijkstra's Shortest Path Algorithm (Java + Python) [Code](DijkstraShortestReach.py)
 * Kahn's Algorithm for Topological Sort [Code](Kahns_Algo_Topologicalsort.py)
 * Depth First Search [Code](DFS.py)
@@ -18,8 +20,6 @@ This repository contains Data structures, Algorithms and their common usecases i
 * Segement Tree (For sum) (Java + Python)   [Code](segment_Tree.py)
 * Union Find Data Structures (Disjoint Set Data Structure) [Code](UnionFindDS.py)
 * Binary Search Tree [Code](BST.py)
-
-> Click on "Code" to see code of that data structure or algorithm, and click on "Learn" to read markdown.
 
 ## Learning Python ( the pythonic way)
 
