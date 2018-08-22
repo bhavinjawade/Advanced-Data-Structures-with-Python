@@ -4,9 +4,9 @@ This repository contains Data structures, Algorithms and their common usecases i
 
 ## Contents:
 
-### Algorithms-
-
 > Click on "Code" to see code of that data structure or algorithm, and click on "Learn" to read markdown.
+
+### Algorithms-
 
 * Dijkstra's Shortest Path Algorithm (Java + Python) [Code](DijkstraShortestReach.py)
 * Kahn's Algorithm for Topological Sort [Code](Kahns_Algo_Topologicalsort.py)
