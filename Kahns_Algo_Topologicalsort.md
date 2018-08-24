@@ -56,5 +56,17 @@ If the graph is a DAG, a solution will be contained in the list topsort (the sol
 necessarily unique). Otherwise, the graph must have at least one cycle and therefore a
 topological sorting is impossible.
 <br>
+For the above mentioned graph value of topsort, store and indegree for each iteration:
+<br>
+|Iteration| Topsort| Store| In-degree|
+| --- | --- | --- | --- |
+| 0 | - | [4,5] | [2,2,1,1,0,0] |
+| 1 | [4] | [5] | [1,1,1,1,0,0] |
+| 2 | [4,5] | [2,0] | [0,1,0,1,0,0] |
+| 3 | [4,5,2] | [0,3] | [0,1,0,0,0,0] |
+| 4 | [4,5,2,0] | [3] | [0,1,0,0,0,0] |
+| 5 | [4,5,2,0,3] | [1] | [0,0,0,0,0,0] |
+| 6 | [4,5,2,0,3,1] | [] | [0,0,0,0,0,0] |
+
 <br>
 **Markdown by: [Sakina Freegnajwala](https://www.linkedin.com/in/sakina-freeganjwala-033498152/)**
