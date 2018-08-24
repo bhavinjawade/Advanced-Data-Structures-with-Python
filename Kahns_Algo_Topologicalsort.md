@@ -58,7 +58,7 @@ topological sorting is impossible.
 <br>
 For the above mentioned graph value of topsort, store and indegree for each iteration:
 <br>
-|Iteration| Topsort| Store| In-degree|
+| Iteration | Topsort | Store | In-degree |
 | --- | --- | --- | --- |
 | 0 | - | [4,5] | [2,2,1,1,0,0] |
 | 1 | [4] | [5] | [1,1,1,1,0,0] |
