@@ -9,7 +9,7 @@ This repository contains Data structures, Algorithms and their common usecases i
 ### Algorithms-
 
 * Dijkstra's Shortest Path Algorithm (Java + Python) [Code](DijkstraShortestReach.py)
-* Kahn's Algorithm for Topological Sort [Code](Kahns_Algo_Topologicalsort.py)
+* Kahn's Algorithm for Topological Sort [Code](Kahns_Algo_Topologicalsort.py) [Learn](Kahns_Algo_Topologicalsort.md)
 * Depth First Search [Code](DFS.py)
 * Floyd Warshall Algorithm [Code](Floyd_Warshall_Algorithm.py) [Learn](Floyd_Warshall_Algorithm.md)
 * Longest Common Subsequence (Java) [Code](LongestCommonSubsequence.java)
