@@ -17,7 +17,7 @@ This repository contains Data structures, Algorithms and their common usecases i
 
 ### Data Structures-
 * Trie Data Structure [Code](Trie_Data_Structure.py) [Learn](Trie_Data_Structure.md) 
-* Segement Tree (For sum) (Java + Python)   [Code](segment_Tree.py)
+* Segment Tree (For sum) (Java + Python)   [Code](segment_Tree.py)
 * Union Find Data Structures (Disjoint Set Data Structure) [Code](UnionFindDS.py)
 * Binary Search Tree [Code](BST.py)
 
@@ -56,7 +56,7 @@ filter(function_object, iterable)
 ```
 ## Python Tricks
 
-Input Space Seperated Integers as List<br>
+Input Space Separated Integers as List<br>
 ```python
 numbers = list(map(int, input().split()))
 ```
@@ -64,7 +64,7 @@ numbers = list(map(int, input().split()))
 
 ## Resources to Learn Python
 
-Books, Vedios and Lecture Notes available in are available here - [Learning Resources](https://github.com/bhavinjawade/Advanced-Data-Structures-with-Python/tree/master/Learning%20Resources)
+Books, Videos and Lecture Notes available in are available here - [Learning Resources](https://github.com/bhavinjawade/Advanced-Data-Structures-with-Python/tree/master/Learning%20Resources)
 
 ### Some Other Resources 
 
