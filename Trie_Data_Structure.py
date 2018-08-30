@@ -41,23 +41,26 @@ def search(word,root):
     current = node
   return {"The word exists" : current.endofword,"No of times word occurs" : current.count}
 
- 
+start = time.process_time()
 print("Reading the File")
 store = open("store_for_trie.txt","r",encoding="utf8")
 text = store.read()
 words = text.split()
 print("Calculating the number of words")
 print("No of words: " + str(len(words)))
- 
+print(">>TIME: "+str(time.process_time() - start))
+
+starts = time.process_time()
 print("Creating Trie Data Structure")
 for word in words:
       insert(word)
 print("Trie Successfully Created")
+print(">>TIME: "+str(time.process_time() - starts))
 
+startss = time.process_time()
 tosearch = input("enter the word to search: ")
 print(search(tosearch,root))
-
-# to simply try the trie data structure uncomment below lines
+print(">>TIME: "+str(time.process_time() - startss))
 
 # insert("HelloBhavin")
 # insert("Hell")
