@@ -5,7 +5,7 @@ Trie is an efficient information reTrieval data structure. Trie also called digi
 
 ## Efficiency of Trie
 
-The complexity of creating a trie is O(W*L), where W is the number of words, and L is an average length of the word: you need to perform L lookups on the average for each of the W words in the set.
+The complexity of creating a trie is O(W x L), where W is the number of words, and L is an average length of the word: you need to perform L lookups on the average for each of the W words in the set.
 <br>
 In the associated [code](Trie_Data_Structure.py), I have used a text file with more than 7 million words (A file created by concatinating text from Books like - [Gone with the wind](http://biblioteka.kijowski.pl/mitchell%20margaret/gone%20with%20the%20wind.pdf) and few others). Creating the Trie Data structure takes O(m*n) time complexity. 
 But searching takes only O(L) complexity where L is the length of word you are going to search.
