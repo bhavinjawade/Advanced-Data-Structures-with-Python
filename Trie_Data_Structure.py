@@ -1,9 +1,12 @@
+import time
+
 class TrieNode:
   children = {}
   endofword = False
   def __init__(self):
     self.children = {}
     self.endofword = False
+    self.count = 0
 
 root = TrieNode() 
 def insert(word):
@@ -16,6 +19,7 @@ def insert(word):
       node = current.children[word[i]]
     current = node
   current.endofword = True
+  current.count += 1
 
 lis = []
 def printTrie(current):  
@@ -35,21 +39,39 @@ def search(word,root):
     else:
       node = current.children[word[i]]
     current = node
-  return current.endofword
+  return {"The word exists" : current.endofword,"No of times word occurs" : current.count}
 
-insert("HelloBhavin")
-insert("Hell")
-insert("Hello")
-insert("Hat")
-insert("Cases")
-insert("Cast")
-insert("Cause")
-insert("Chastise")
-insert("Date")
-print(search("Bhavin",root))
-print(search("Hello",root))
-print(search("Hell",root))
-print(search("Cast",root))
-print(search("Dat",root))
-print(search("Date",root))
+ 
+print("Reading the File")
+store = open("store_for_trie.txt","r",encoding="utf8")
+text = store.read()
+words = text.split()
+print("Calculating the number of words")
+print("No of words: " + str(len(words)))
+ 
+print("Creating Trie Data Structure")
+for word in words:
+      insert(word)
+print("Trie Successfully Created")
+
+tosearch = input("enter the word to search: ")
+print(search(tosearch,root))
+
+# to simply try the trie data structure uncomment below lines
+
+# insert("HelloBhavin")
+# insert("Hell")
+# insert("Hello")
+# insert("Hat")
+# insert("Cases")
+# insert("Cast")
+# insert("Cause")
+# insert("Chastise")
+# insert("Date")
+# print(search("Bhavin",root))
+# print(search("Hello",root))
+# print(search("Hell",root))
+# print(search("Cast",root))
+# print(search("Dat",root))
+# print(search("Date",root))
 # printTrie(root)
