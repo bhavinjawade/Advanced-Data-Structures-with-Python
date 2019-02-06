@@ -83,7 +83,7 @@ Books, Videos and Lecture Notes available in are available here - [Learning Reso
 ## Contributing
 
 This repository is open to contribution.
-Contributers are mentioned here:  
+Contributors are mentioned here:  
 
 1) [Bhavin Jawade](https://www.linkedin.com/in/bhavinjawade/)
 
