@@ -1,5 +1,5 @@
 #effective approach for pattern searching KMP(Knuth Morris Pratt) algorithm.Time complexity O(n)
-def search(out, pat):
+def kmpsearch(out, pat):
     n=len(out)
     m=len(pat)
     #array for longest prefix suffix
@@ -37,6 +37,25 @@ def compute(pat,m,p):
                 k = k + 1
     
 #to find pattern from string out
+
+#brute force for pattern searching .Time complexity O(m*(n-m+1))
+def search(pat, str): 
+    m = len(pat) 
+    n = len(str) 
+
+    for i in range(n-m+1):
+        j=0
+
+        for j in range(0, m):
+            if (str[i + j] != pat[j]):
+                break
+
+        if (j == m-1):
+            print("Pattern found at", i)
+            
 out = 'abcacdbacdabdacaabcdba'
 pat = 'dba'
-search(out,pat)
+print("by brute force")
+search(pat,out)
+print("by kmp algo")
+kmpsearch(out,pat)
