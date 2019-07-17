@@ -18,7 +18,7 @@ This repository contains Data structures, Algorithms and their common usecases i
 ### Data Structures-
 * Trie Data Structure [Code](Trie_Data_Structure.py) [Learn](Trie_Data_Structure.md) 
 * Segment Tree (For sum) (Java + Python)   [Code](segment_Tree.py)
-* Union Find Data Structures (Disjoint Set Data Structure) [Code](UnionFindDS.py) [Learn](Disjoint Sets.md)
+* Union Find Data Structures (Disjoint Set Data Structure) [Code](UnionFindDS.py)[Learn](Disjoint_Sets.md)
 * Binary Search Tree [Code](BST.py)
 
 ## Learning Python ( the pythonic way)
